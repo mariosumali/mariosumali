@@ -10,6 +10,10 @@
   <br/>
 
   <p>
+    <a href="https://mariosumali.github.io/mariosumali/coin/">🪙 Flip a Coin</a>
+  </p>
+
+  <p>
     <!-- Socials -->
     <a href="https://github.com/mariosumali">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
