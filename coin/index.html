@@ -288,17 +288,17 @@
     */
     .table-surface {
       position: absolute;
-      bottom: -600px;
+      top: 50%;
       left: 50%;
-      transform: translateX(-50%) rotateX(50deg);
-      width: 180vw;
-      height: 1000px;
+      transform: translate(-50%, 400px) rotateX(50deg);
+      width: 200vw;
+      height: 2000px;
       background-color: #5d4037;
       background-image:
         repeating-linear-gradient(90deg, transparent 0, transparent 4px, rgba(0, 0, 0, 0.3) 4px, rgba(0, 0, 0, 0.3) 8px),
         repeating-linear-gradient(0deg, transparent 0, transparent 4px, rgba(0, 0, 0, 0.3) 4px, rgba(0, 0, 0, 0.3) 8px);
       background-size: 100% 100%;
-      border-radius: 50% 50% 0 0 / 20% 20% 0 0;
+      border-radius: 50%;
       box-shadow: 0 -10px 0 rgba(0, 0, 0, 0.5);
       z-index: 1;
       border-top: 8px solid #6d4c41;
@@ -407,9 +407,8 @@
   <h1>FLIP THE COIN</h1>
 
   <div class="coin-container">
-    <div class="table-surface"></div>
-
     <div class="scene-wrapper">
+      <div class="table-surface"></div>
       <div class="coin" id="coin" onclick="flipCoin()">
         <div class="coin-edge">
           <div class="coin-edge-layer"></div>
@@ -475,7 +474,7 @@
       }
     }
 
-    // Initialize on first interaction (if not already) or just call it now
+    // Initialize on first interaction (if not already)
     initAudio();
 
     // Also support unlocking on click just in case
