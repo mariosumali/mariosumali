@@ -10,7 +10,11 @@
   <br/>
 
   <p>
-    <a href="https://mariosumali.github.io/mariosumali/coin/">🪙 Flip a Coin</a>
+    <a href="https://mariosumali.github.io/mariosumali/coin/">
+      <img src="coin-preview.webp" width="300" alt="Flip a Coin Preview" />
+      <br />
+      <b>🪙 Flip a Coin</b>
+    </a>
   </p>
 
   <p>
