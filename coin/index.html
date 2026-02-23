@@ -286,26 +286,18 @@
     }
 
     /* 
-       Table Surface with stronger pixel texture
+       Pixel Art Log Table Surface 
     */
     .table-surface {
       position: absolute;
       top: 50%;
       left: 50%;
-      /* Adjust transform so it sits in the middle of the screen */
-      transform: translate(-50%, -10px) rotateX(70deg);
-      width: 200vw;
-      height: 2000px;
-      background-color: #1a1a1a;
-      /* Ensure the grid dots are very visible */
-      background-image:
-        repeating-linear-gradient(90deg, transparent 0, transparent 8px, rgba(255, 255, 255, 0.15) 8px, rgba(255, 255, 255, 0.15) 12px),
-        repeating-linear-gradient(0deg, transparent 0, transparent 8px, rgba(255, 255, 255, 0.15) 8px, rgba(255, 255, 255, 0.15) 12px);
-      background-size: 100% 100%;
-      border-radius: 50%;
-      box-shadow: 0 -10px 0 rgba(0, 0, 0, 0.8), inset 0 0 100px rgba(0, 0, 0, 0.8);
+      /* Position under the coin resting point */
+      transform: translate(-50%, -20px);
+      width: 350px;
+      height: 350px;
       z-index: 1;
-      border-top: 8px solid #222;
+      filter: drop-shadow(0px 20px 10px rgba(0, 0, 0, 0.8));
     }
 
     .result-popup {
@@ -412,7 +404,44 @@
 
   <div class="coin-container">
     <div class="scene-wrapper">
-      <div class="table-surface"></div>
+
+      <!-- Pixel Art Log Table -->
+      <svg class="table-surface" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" shape-rendering="crispEdges">
+        <!-- Log Top fill -->
+        <ellipse cx="32" cy="24" rx="28" ry="12" fill="#d4a373" />
+
+        <!-- Log solid side -->
+        <rect x="4" y="24" width="56" height="20" fill="#6d4427" />
+        <!-- Bottom curve approximations -->
+        <rect x="6" y="44" width="52" height="3" fill="#6d4427" />
+        <rect x="9" y="47" width="46" height="3" fill="#6d4427" />
+        <rect x="13" y="50" width="38" height="3" fill="#6d4427" />
+        <rect x="20" y="53" width="24" height="2" fill="#6d4427" />
+
+        <!-- Vertical Bark Details -->
+        <rect x="8" y="28" width="3" height="18" fill="#4a3018" />
+        <rect x="16" y="25" width="4" height="23" fill="#3e2712" />
+        <rect x="24" y="27" width="3" height="24" fill="#4a3018" />
+        <rect x="30" y="24" width="4" height="28" fill="#5c3a21" />
+        <rect x="38" y="26" width="3" height="25" fill="#3e2712" />
+        <rect x="44" y="25" width="4" height="23" fill="#4a3018" />
+        <rect x="52" y="28" width="3" height="18" fill="#3e2712" />
+
+        <!-- Top Rings -->
+        <ellipse cx="32" cy="24" rx="24" ry="10" fill="none" stroke="#b88a57" stroke-width="1.5" />
+        <ellipse cx="32" cy="24" rx="18" ry="7.5" fill="none" stroke="#c49a68" stroke-width="1.5" />
+        <ellipse cx="32" cy="24" rx="12" ry="5" fill="none" stroke="#b88a57" stroke-width="1.5" />
+        <ellipse cx="32" cy="24" rx="6" ry="2.5" fill="none" stroke="#c49a68" stroke-width="1.5" />
+
+        <!-- Leaf Stem -->
+        <rect x="52" y="16" width="2" height="6" fill="#3e2712" transform="rotate(30 53 19)" />
+
+        <!-- Leaf Blade -->
+        <polygon points="56,6 60,8 62,12 60,16 56,18 52,16 50,12 52,8" fill="#4caf50" stroke="#1b5e20"
+          stroke-width="1.5" />
+        <polyline points="56,18 56,8" stroke="#81c784" stroke-width="1.5" />
+      </svg>
+
       <div class="coin" id="coin" onclick="flipCoin()">
         <div class="coin-edge">
           <div class="coin-edge-layer"></div>

@@ -7,8 +7,4 @@
   <a href="https://mariosumali.github.io/mariosumali/coin/">Feeling Lucky?</a>
 </div>
 
-### ✦ Toolkit
-**Languages:** Python, TypeScript, C++, JavaScript  
-**Frontend:** React, Next.js, HTML/CSS  
-**Backend:** Node.js, Express, SQL, NoSQL  
-**Tools:** Git, Linux, Docker, AWS  
+### ✦ 
