@@ -406,40 +406,51 @@
     <div class="scene-wrapper">
 
       <!-- Pixel Art Log Table -->
-      <svg class="table-surface" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" shape-rendering="crispEdges">
-        <!-- Log Top fill -->
-        <ellipse cx="32" cy="24" rx="28" ry="12" fill="#d4a373" />
+      <svg class="table-surface" viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet" shape-rendering="crispEdges">
+        <!-- We will construct a horizontal log facing left/right like the reference -->
+        <!-- Bark Body Base (Darker) -->
+        <rect x="10" y="10" width="18" height="14" fill="#6d4427" />
 
-        <!-- Log solid side -->
-        <rect x="4" y="24" width="56" height="20" fill="#6d4427" />
-        <!-- Bottom curve approximations -->
-        <rect x="6" y="44" width="52" height="3" fill="#6d4427" />
-        <rect x="9" y="47" width="46" height="3" fill="#6d4427" />
-        <rect x="13" y="50" width="38" height="3" fill="#6d4427" />
-        <rect x="20" y="53" width="24" height="2" fill="#6d4427" />
+        <!-- Bark Top Highlight (Lighter) -->
+        <rect x="10" y="8" width="16" height="3" fill="#8c5832" />
+        <rect x="10" y="10" width="18" height="2" fill="#a46b3e" />
+        <rect x="11" y="9" width="15" height="1" fill="#c48a52" />
 
-        <!-- Vertical Bark Details -->
-        <rect x="8" y="28" width="3" height="18" fill="#4a3018" />
-        <rect x="16" y="25" width="4" height="23" fill="#3e2712" />
-        <rect x="24" y="27" width="3" height="24" fill="#4a3018" />
-        <rect x="30" y="24" width="4" height="28" fill="#5c3a21" />
-        <rect x="38" y="26" width="3" height="25" fill="#3e2712" />
-        <rect x="44" y="25" width="4" height="23" fill="#4a3018" />
-        <rect x="52" y="28" width="3" height="18" fill="#3e2712" />
+        <!-- Bark Dark Shading (Bottom) -->
+        <rect x="10" y="21" width="16" height="3" fill="#4a2e1a" />
 
-        <!-- Top Rings -->
-        <ellipse cx="32" cy="24" rx="24" ry="10" fill="none" stroke="#b88a57" stroke-width="1.5" />
-        <ellipse cx="32" cy="24" rx="18" ry="7.5" fill="none" stroke="#c49a68" stroke-width="1.5" />
-        <ellipse cx="32" cy="24" rx="12" ry="5" fill="none" stroke="#b88a57" stroke-width="1.5" />
-        <ellipse cx="32" cy="24" rx="6" ry="2.5" fill="none" stroke="#c49a68" stroke-width="1.5" />
+        <!-- Log Face (Left side circle) Base -->
+        <!-- Approximating a circle in 14x14 grid -->
+        <rect x="4" y="11" width="6" height="12" fill="#d4a373" />
+        <rect x="5" y="10" width="4" height="1" fill="#d4a373" />
+        <rect x="5" y="23" width="4" height="1" fill="#d4a373" />
+        <rect x="3" y="12" width="1" height="10" fill="#d4a373" />
+        <rect x="9" y="10" width="1" height="14" fill="#d4a373" /> <!-- overlap with bark -->
 
-        <!-- Leaf Stem -->
-        <rect x="52" y="16" width="2" height="6" fill="#3e2712" transform="rotate(30 53 19)" />
+        <!-- Log Face Rings -->
+        <!-- Outer Ring -->
+        <rect x="5" y="12" width="4" height="10" fill="none" stroke="#b88a57" stroke-width="1" />
+        <!-- Inner Ring -->
+        <rect x="6" y="14" width="2" height="6" fill="none" stroke="#b88a57" stroke-width="1" />
+        <!-- Center core -->
+        <rect x="6" y="16" width="2" height="2" fill="#c49a68" />
 
-        <!-- Leaf Blade -->
-        <polygon points="56,6 60,8 62,12 60,16 56,18 52,16 50,12 52,8" fill="#4caf50" stroke="#1b5e20"
-          stroke-width="1.5" />
-        <polyline points="56,18 56,8" stroke="#81c784" stroke-width="1.5" />
+        <!-- Bark details (Horizontal lines) -->
+        <rect x="14" y="14" width="6" height="1" fill="#4a2e1a" />
+        <rect x="18" y="16" width="8" height="1" fill="#3e2712" />
+        <rect x="12" y="18" width="5" height="1" fill="#5c3a21" />
+        <rect x="22" y="19" width="4" height="1" fill="#4a2e1a" />
+        <rect x="15" y="21" width="7" height="1" fill="#3e2712" />
+
+        <!-- The Leaf (Sprouting from top) -->
+        <!-- Stem -->
+        <rect x="12" y="7" width="1" height="2" fill="#4a2e1a" />
+        <!-- Leaf Bottom/Dark -->
+        <rect x="9" y="4" width="3" height="4" fill="#388e3c" />
+        <rect x="11" y="3" width="2" height="2" fill="#388e3c" />
+        <!-- Leaf Top/Light -->
+        <rect x="8" y="3" width="3" height="3" fill="#66bb6a" />
+        <rect x="10" y="2" width="2" height="2" fill="#81c784" />
       </svg>
 
       <div class="coin" id="coin" onclick="flipCoin()">
