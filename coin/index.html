@@ -21,8 +21,8 @@
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      /* Retro dark blue background */
-      background: radial-gradient(circle at 50% 30%, #1e3c72 0%, #2a5298 20%, #0f2027 100%);
+      /* Retro dark gray/black background */
+      background: radial-gradient(circle at 50% 30%, #333333 0%, #1a1a1a 40%, #000000 100%);
       font-family: 'Press Start 2P', cursive;
       color: #fff;
       overflow: hidden;
@@ -133,42 +133,44 @@
       width: 100%;
       height: 100%;
       backface-visibility: hidden;
+      /* Remove border-radius for a more blocky/pixelated base if desired, but keeping it 50% with low-res inner elements works too. We'll use crisp edges. */
       border-radius: 50%;
       display: flex;
       align-items: center;
       justify-content: center;
+      /* Force pixelation on transformations */
+      transform-style: preserve-3d;
     }
 
     .coin-heads {
-      background: linear-gradient(145deg, #ffd700, #ffaa00, #ff8c00);
-      border: 4px solid #b8860b;
-      box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.1);
+      background: #ffd700;
+      /* Blocky inner shadow */
+      box-shadow: inset 0 0 0 4px #b8860b, inset 0 0 0 8px #ffaa00;
     }
 
     .coin-tails {
-      background: linear-gradient(145deg, #c0c0c0, #a8a8a8, #909090);
-      border: 4px solid #696969;
-      box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.1);
+      background: #c0c0c0;
+      /* Blocky inner shadow */
+      box-shadow: inset 0 0 0 4px #696969, inset 0 0 0 8px #a8a8a8;
       transform: rotateX(180deg);
     }
 
     .sun {
       width: 60px;
       height: 60px;
+      /* Blocky sun */
       background: #fffacd;
-      border-radius: 50%;
-      box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.2);
+      box-shadow: 4px 4px 0px #e6b800, -4px -4px 0px #e6b800, 4px -4px 0px #e6b800, -4px 4px 0px #e6b800;
       position: relative;
-      border: 2px solid #e6b800;
     }
 
     .moon {
       width: 50px;
       height: 50px;
-      border-radius: 50%;
+      /* Blocky moon crescent */
+      background: transparent;
       box-shadow: 12px 4px 0 0 #f0f0f0;
       transform: rotate(-30deg);
-      filter: drop-shadow(2px 2px 0 rgba(0, 0, 0, 0.3));
     }
 
     .star {
@@ -293,15 +295,16 @@
       transform: translate(-50%, 400px) rotateX(50deg);
       width: 200vw;
       height: 2000px;
-      background-color: #5d4037;
+      background-color: #1a1a1a;
+      /* Dark pixelated grid for the table */
       background-image:
-        repeating-linear-gradient(90deg, transparent 0, transparent 4px, rgba(0, 0, 0, 0.3) 4px, rgba(0, 0, 0, 0.3) 8px),
-        repeating-linear-gradient(0deg, transparent 0, transparent 4px, rgba(0, 0, 0, 0.3) 4px, rgba(0, 0, 0, 0.3) 8px);
+        repeating-linear-gradient(90deg, transparent 0, transparent 4px, rgba(255, 255, 255, 0.05) 4px, rgba(255, 255, 255, 0.05) 8px),
+        repeating-linear-gradient(0deg, transparent 0, transparent 4px, rgba(255, 255, 255, 0.05) 4px, rgba(255, 255, 255, 0.05) 8px);
       background-size: 100% 100%;
       border-radius: 50%;
-      box-shadow: 0 -10px 0 rgba(0, 0, 0, 0.5);
+      box-shadow: 0 -10px 0 rgba(0, 0, 0, 0.8);
       z-index: 1;
-      border-top: 8px solid #6d4c41;
+      border-top: 8px solid #222;
     }
 
     .result-popup {
@@ -408,7 +411,7 @@
 
   <div class="coin-container">
     <div class="scene-wrapper">
-      <!-- <div class="table-surface"></div> -->
+      <div class="table-surface"></div>
       <div class="coin" id="coin" onclick="flipCoin()">
         <div class="coin-edge">
           <div class="coin-edge-layer"></div>
