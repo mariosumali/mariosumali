@@ -292,17 +292,18 @@
       position: absolute;
       top: 50%;
       left: 50%;
-      transform: translate(-50%, 400px) rotateX(50deg);
+      /* Adjust transform so it sits in the middle of the screen */
+      transform: translate(-50%, -10px) rotateX(70deg);
       width: 200vw;
       height: 2000px;
       background-color: #1a1a1a;
-      /* Dark pixelated grid for the table */
+      /* Ensure the grid dots are very visible */
       background-image:
-        repeating-linear-gradient(90deg, transparent 0, transparent 4px, rgba(255, 255, 255, 0.05) 4px, rgba(255, 255, 255, 0.05) 8px),
-        repeating-linear-gradient(0deg, transparent 0, transparent 4px, rgba(255, 255, 255, 0.05) 4px, rgba(255, 255, 255, 0.05) 8px);
+        repeating-linear-gradient(90deg, transparent 0, transparent 8px, rgba(255, 255, 255, 0.15) 8px, rgba(255, 255, 255, 0.15) 12px),
+        repeating-linear-gradient(0deg, transparent 0, transparent 8px, rgba(255, 255, 255, 0.15) 8px, rgba(255, 255, 255, 0.15) 12px);
       background-size: 100% 100%;
       border-radius: 50%;
-      box-shadow: 0 -10px 0 rgba(0, 0, 0, 0.8);
+      box-shadow: 0 -10px 0 rgba(0, 0, 0, 0.8), inset 0 0 100px rgba(0, 0, 0, 0.8);
       z-index: 1;
       border-top: 8px solid #222;
     }
