@@ -8,85 +8,85 @@
 <rect x="0" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="50" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="100" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="150" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="200" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="250" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="300" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="350" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="400" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="450" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="500" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="550" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="600" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="650" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="700" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="750" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="800" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="850" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="900" y="280" width="48" height="54" rx="2" fill="#27272a"/><rect x="950" y="280" width="48" height="54" rx="2" fill="#27272a"/>
 <rect x="0" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="50" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="100" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="150" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="200" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="250" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="300" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="350" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="400" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="450" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="500" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="550" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="600" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="650" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="700" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="750" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="800" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="850" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="900" y="336" width="48" height="54" rx="2" fill="#27272a"/><rect x="950" y="336" width="48" height="54" rx="2" fill="#27272a"/>
 <rect x="0" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="50" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="100" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="150" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="200" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="250" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="300" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="350" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="400" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="450" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="500" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="550" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="600" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="650" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="700" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="750" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="800" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="850" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="900" y="392" width="48" height="54" rx="2" fill="#27272a"/><rect x="950" y="392" width="48" height="54" rx="2" fill="#27272a"/>
-<text x="274" y="149" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="34" font-weight="bold" opacity="0">M<animate attributeName="opacity" from="0" to="1" begin="0.580s" dur="0.15s" fill="freeze"/></text>
-<text x="324" y="149" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="34" font-weight="bold" opacity="0">A<animate attributeName="opacity" from="0" to="1" begin="0.540s" dur="0.15s" fill="freeze"/></text>
-<text x="374" y="149" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="34" font-weight="bold" opacity="0">R<animate attributeName="opacity" from="0" to="1" begin="0.500s" dur="0.15s" fill="freeze"/></text>
-<text x="424" y="149" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="34" font-weight="bold" opacity="0">I<animate attributeName="opacity" from="0" to="1" begin="0.460s" dur="0.15s" fill="freeze"/></text>
-<text x="474" y="149" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="34" font-weight="bold" opacity="0">O<animate attributeName="opacity" from="0" to="1" begin="0.420s" dur="0.15s" fill="freeze"/></text>
-<text x="274" y="205" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="34" font-weight="bold" opacity="0">S<animate attributeName="opacity" from="0" to="1" begin="0.540s" dur="0.15s" fill="freeze"/></text>
-<text x="324" y="205" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="34" font-weight="bold" opacity="0">U<animate attributeName="opacity" from="0" to="1" begin="0.500s" dur="0.15s" fill="freeze"/></text>
-<text x="374" y="205" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="34" font-weight="bold" opacity="0">M<animate attributeName="opacity" from="0" to="1" begin="0.460s" dur="0.15s" fill="freeze"/></text>
-<text x="424" y="205" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="34" font-weight="bold" opacity="0">A<animate attributeName="opacity" from="0" to="1" begin="0.420s" dur="0.15s" fill="freeze"/></text>
-<text x="474" y="205" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="34" font-weight="bold" opacity="0">L<animate attributeName="opacity" from="0" to="1" begin="0.380s" dur="0.15s" fill="freeze"/></text>
-<text x="524" y="205" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="34" font-weight="bold" opacity="0">I<animate attributeName="opacity" from="0" to="1" begin="0.340s" dur="0.15s" fill="freeze"/></text>
-<text x="324" y="317" text-anchor="middle" fill="#a1a1aa" font-family="'Courier New',monospace" font-size="28" opacity="0">S<animate attributeName="opacity" from="0" to="1" begin="0.500s" dur="0.15s" fill="freeze"/></text>
-<text x="374" y="317" text-anchor="middle" fill="#a1a1aa" font-family="'Courier New',monospace" font-size="28" opacity="0">T<animate attributeName="opacity" from="0" to="1" begin="0.460s" dur="0.15s" fill="freeze"/></text>
-<text x="424" y="317" text-anchor="middle" fill="#a1a1aa" font-family="'Courier New',monospace" font-size="28" opacity="0">A<animate attributeName="opacity" from="0" to="1" begin="0.420s" dur="0.15s" fill="freeze"/></text>
-<text x="474" y="317" text-anchor="middle" fill="#a1a1aa" font-family="'Courier New',monospace" font-size="28" opacity="0">N<animate attributeName="opacity" from="0" to="1" begin="0.380s" dur="0.15s" fill="freeze"/></text>
-<text x="524" y="317" text-anchor="middle" fill="#a1a1aa" font-family="'Courier New',monospace" font-size="28" opacity="0">F<animate attributeName="opacity" from="0" to="1" begin="0.340s" dur="0.15s" fill="freeze"/></text>
-<text x="574" y="317" text-anchor="middle" fill="#a1a1aa" font-family="'Courier New',monospace" font-size="28" opacity="0">O<animate attributeName="opacity" from="0" to="1" begin="0.380s" dur="0.15s" fill="freeze"/></text>
-<text x="624" y="317" text-anchor="middle" fill="#a1a1aa" font-family="'Courier New',monospace" font-size="28" opacity="0">R<animate attributeName="opacity" from="0" to="1" begin="0.420s" dur="0.15s" fill="freeze"/></text>
-<text x="674" y="317" text-anchor="middle" fill="#a1a1aa" font-family="'Courier New',monospace" font-size="28" opacity="0">D<animate attributeName="opacity" from="0" to="1" begin="0.460s" dur="0.15s" fill="freeze"/></text>
+<g opacity="0"><path d="M50 400V0H100V250H150V300H100V400ZM250 250V0H300V400H250V300H200V250ZM150 250V150H200V250Z" fill="#fafafa" transform="translate(263.2,166.4) scale(0.0618,-0.0618)"/><animate attributeName="opacity" from="0" to="1" begin="0.580s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 300V0H100V150H250V0H300V300H250V200H100V300ZM150 400V350H200V400ZM100 350V300H150V350ZM200 350V300H250V350Z" fill="#fafafa" transform="translate(313.2,166.4) scale(0.0618,-0.0618)"/><animate attributeName="opacity" from="0" to="1" begin="0.540s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 400V0H100V150H200V100H250V200H100V350H250V400ZM250 350V200H300V350ZM250 100V0H300V100Z" fill="#fafafa" transform="translate(363.2,166.4) scale(0.0618,-0.0618)"/><animate attributeName="opacity" from="0" to="1" begin="0.500s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M150 50H50V0H300V50H200V350H300V400H50V350H150Z" fill="#fafafa" transform="translate(413.2,166.4) scale(0.0618,-0.0618)"/><animate attributeName="opacity" from="0" to="1" begin="0.460s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 350V50H100V350ZM100 50V0H250V50ZM250 350V50H300V350ZM100 400V350H250V400Z" fill="#fafafa" transform="translate(463.2,166.4) scale(0.0618,-0.0618)"/><animate attributeName="opacity" from="0" to="1" begin="0.420s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 350V250H100V350ZM100 250V200H250V250ZM250 50H100V0H250ZM100 50V100H50V50ZM250 200V50H300V200ZM100 400V350H250V400ZM250 350V300H300V350Z" fill="#fafafa" transform="translate(263.2,222.4) scale(0.0618,-0.0618)"/><animate attributeName="opacity" from="0" to="1" begin="0.540s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 400V50H100V400ZM100 50V0H250V50ZM250 400V50H300V400Z" fill="#fafafa" transform="translate(313.2,222.4) scale(0.0618,-0.0618)"/><animate attributeName="opacity" from="0" to="1" begin="0.500s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 400V0H100V250H150V300H100V400ZM250 250V0H300V400H250V300H200V250ZM150 250V150H200V250Z" fill="#fafafa" transform="translate(363.2,222.4) scale(0.0618,-0.0618)"/><animate attributeName="opacity" from="0" to="1" begin="0.460s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 300V0H100V150H250V0H300V300H250V200H100V300ZM150 400V350H200V400ZM100 350V300H150V350ZM200 350V300H250V350Z" fill="#fafafa" transform="translate(413.2,222.4) scale(0.0618,-0.0618)"/><animate attributeName="opacity" from="0" to="1" begin="0.420s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 400V0H300V50H100V400Z" fill="#fafafa" transform="translate(463.2,222.4) scale(0.0618,-0.0618)"/><animate attributeName="opacity" from="0" to="1" begin="0.380s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M150 50H50V0H300V50H200V350H300V400H50V350H150Z" fill="#fafafa" transform="translate(513.2,222.4) scale(0.0618,-0.0618)"/><animate attributeName="opacity" from="0" to="1" begin="0.340s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 350V250H100V350ZM100 250V200H250V250ZM250 50H100V0H250ZM100 50V100H50V50ZM250 200V50H300V200ZM100 400V350H250V400ZM250 350V300H300V350Z" fill="#a1a1aa" transform="translate(315.1,330.1) scale(0.0509,-0.0509)"/><animate attributeName="opacity" from="0" to="1" begin="0.500s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 400V350H150V0H200V350H300V400Z" fill="#a1a1aa" transform="translate(365.1,330.1) scale(0.0509,-0.0509)"/><animate attributeName="opacity" from="0" to="1" begin="0.460s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 300V0H100V150H250V0H300V300H250V200H100V300ZM150 400V350H200V400ZM100 350V300H150V350ZM200 350V300H250V350Z" fill="#a1a1aa" transform="translate(415.1,330.1) scale(0.0509,-0.0509)"/><animate attributeName="opacity" from="0" to="1" begin="0.420s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 400V0H100V250H150V300H100V400ZM250 150V0H300V400H250V200H200V150ZM200 200V250H150V200Z" fill="#a1a1aa" transform="translate(465.1,330.1) scale(0.0509,-0.0509)"/><animate attributeName="opacity" from="0" to="1" begin="0.380s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 400V0H100V200H250V250H100V350H300V400Z" fill="#a1a1aa" transform="translate(515.1,330.1) scale(0.0509,-0.0509)"/><animate attributeName="opacity" from="0" to="1" begin="0.340s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 350V50H100V350ZM100 50V0H250V50ZM250 350V50H300V350ZM100 400V350H250V400Z" fill="#a1a1aa" transform="translate(565.1,330.1) scale(0.0509,-0.0509)"/><animate attributeName="opacity" from="0" to="1" begin="0.380s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 400V0H100V150H200V100H250V200H100V350H250V400ZM250 350V200H300V350ZM250 100V0H300V100Z" fill="#a1a1aa" transform="translate(615.1,330.1) scale(0.0509,-0.0509)"/><animate attributeName="opacity" from="0" to="1" begin="0.420s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 400V0H250V50H100V350H250V400ZM250 350V50H300V350Z" fill="#a1a1aa" transform="translate(665.1,330.1) scale(0.0509,-0.0509)"/><animate attributeName="opacity" from="0" to="1" begin="0.460s" dur="0.15s" fill="freeze"/></g>
 <g transform="translate(262,295)" opacity="0"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z" fill="#a1a1aa"/><animate attributeName="opacity" from="0" to="1" begin="0.540s" dur="0.15s" fill="freeze"/></g>
 <g>
 <animate attributeName="opacity" calcMode="discrete" values="1;0;0;0;0" keyTimes="0.00;0.20;0.40;0.60;0.80" dur="25s" repeatCount="indefinite" begin="2s"/>
-<text x="274" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28" opacity="0">W<animate attributeName="opacity" from="0" to="1" begin="0.620s" dur="0.15s" fill="freeze"/></text>
-<text x="324" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28" opacity="0">E<animate attributeName="opacity" from="0" to="1" begin="0.580s" dur="0.15s" fill="freeze"/></text>
-<text x="374" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28" opacity="0">L<animate attributeName="opacity" from="0" to="1" begin="0.540s" dur="0.15s" fill="freeze"/></text>
-<text x="424" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28" opacity="0">C<animate attributeName="opacity" from="0" to="1" begin="0.500s" dur="0.15s" fill="freeze"/></text>
-<text x="474" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28" opacity="0">O<animate attributeName="opacity" from="0" to="1" begin="0.460s" dur="0.15s" fill="freeze"/></text>
-<text x="524" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28" opacity="0">M<animate attributeName="opacity" from="0" to="1" begin="0.420s" dur="0.15s" fill="freeze"/></text>
-<text x="574" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28" opacity="0">E<animate attributeName="opacity" from="0" to="1" begin="0.460s" dur="0.15s" fill="freeze"/></text>
+<g opacity="0"><path d="M50 400V150H100V400ZM100 150V0H150V150ZM250 400V150H300V400ZM200 150V0H250V150ZM150 250V150H200V250Z" fill="#fafafa" transform="translate(265.1,106.1) scale(0.0509,-0.0509)"/><animate attributeName="opacity" from="0" to="1" begin="0.620s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 400V0H300V50H100V200H250V250H100V350H300V400Z" fill="#fafafa" transform="translate(315.1,106.1) scale(0.0509,-0.0509)"/><animate attributeName="opacity" from="0" to="1" begin="0.580s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 400V0H300V50H100V400Z" fill="#fafafa" transform="translate(365.1,106.1) scale(0.0509,-0.0509)"/><animate attributeName="opacity" from="0" to="1" begin="0.540s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 350V50H100V350ZM100 50V0H250V50ZM250 100V50H300V100ZM100 400V350H250V400ZM250 350V300H300V350Z" fill="#fafafa" transform="translate(415.1,106.1) scale(0.0509,-0.0509)"/><animate attributeName="opacity" from="0" to="1" begin="0.500s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 350V50H100V350ZM100 50V0H250V50ZM250 350V50H300V350ZM100 400V350H250V400Z" fill="#fafafa" transform="translate(465.1,106.1) scale(0.0509,-0.0509)"/><animate attributeName="opacity" from="0" to="1" begin="0.460s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 400V0H100V250H150V300H100V400ZM250 250V0H300V400H250V300H200V250ZM150 250V150H200V250Z" fill="#fafafa" transform="translate(515.1,106.1) scale(0.0509,-0.0509)"/><animate attributeName="opacity" from="0" to="1" begin="0.420s" dur="0.15s" fill="freeze"/></g>
+<g opacity="0"><path d="M50 400V0H300V50H100V200H250V250H100V350H300V400Z" fill="#fafafa" transform="translate(565.1,106.1) scale(0.0509,-0.0509)"/><animate attributeName="opacity" from="0" to="1" begin="0.460s" dur="0.15s" fill="freeze"/></g>
 </g>
 <g opacity="0">
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0;0;0" keyTimes="0.00;0.20;0.40;0.60;0.80" dur="25s" repeatCount="indefinite" begin="2s"/>
-<text x="274" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">B</text>
-<text x="324" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">I</text>
-<text x="374" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">E</text>
-<text x="424" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">N</text>
-<text x="474" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">V</text>
-<text x="524" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">E</text>
-<text x="574" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">N</text>
-<text x="624" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">U</text>
-<text x="674" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">E</text>
+<path d="M50 400V0H250V50H100V200H250V250H100V350H250V400ZM250 200V50H300V200ZM250 350V250H300V350Z" fill="#fafafa" transform="translate(265.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M150 50H50V0H300V50H200V350H300V400H50V350H150Z" fill="#fafafa" transform="translate(315.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H300V50H100V200H250V250H100V350H300V400Z" fill="#fafafa" transform="translate(365.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H100V250H150V300H100V400ZM250 150V0H300V400H250V200H200V150ZM200 200V250H150V200Z" fill="#fafafa" transform="translate(415.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M150 50V150H100V50ZM150 50V0H200V50ZM50 400V150H100V400ZM250 400V150H300V400ZM200 150V50H250V150Z" fill="#fafafa" transform="translate(465.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H300V50H100V200H250V250H100V350H300V400Z" fill="#fafafa" transform="translate(515.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H100V250H150V300H100V400ZM250 150V0H300V400H250V200H200V150ZM200 200V250H150V200Z" fill="#fafafa" transform="translate(565.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V50H100V400ZM100 50V0H250V50ZM250 400V50H300V400Z" fill="#fafafa" transform="translate(615.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H300V50H100V200H250V250H100V350H300V400Z" fill="#fafafa" transform="translate(665.1,106.1) scale(0.0509,-0.0509)"/>
 </g>
 <g opacity="0">
 <animate attributeName="opacity" calcMode="discrete" values="0;0;1;0;0" keyTimes="0.00;0.20;0.40;0.60;0.80" dur="25s" repeatCount="indefinite" begin="2s"/>
-<text x="274" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">W</text>
-<text x="324" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">I</text>
-<text x="374" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">L</text>
-<text x="424" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">L</text>
-<text x="474" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">K</text>
-<text x="524" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">O</text>
-<text x="574" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">M</text>
-<text x="624" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">M</text>
-<text x="674" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">E</text>
-<text x="724" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">N</text>
+<path d="M50 400V150H100V400ZM100 150V0H150V150ZM250 400V150H300V400ZM200 150V0H250V150ZM150 250V150H200V250Z" fill="#fafafa" transform="translate(265.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M150 50H50V0H300V50H200V350H300V400H50V350H150Z" fill="#fafafa" transform="translate(315.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H300V50H100V400Z" fill="#fafafa" transform="translate(365.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H300V50H100V400Z" fill="#fafafa" transform="translate(415.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H100V200H200V300H150V250H100V400ZM250 400V350H300V400ZM200 350V300H250V350ZM250 100V200H200V100ZM250 100V0H300V100Z" fill="#fafafa" transform="translate(465.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 350V50H100V350ZM100 50V0H250V50ZM250 350V50H300V350ZM100 400V350H250V400Z" fill="#fafafa" transform="translate(515.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H100V250H150V300H100V400ZM250 250V0H300V400H250V300H200V250ZM150 250V150H200V250Z" fill="#fafafa" transform="translate(565.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H100V250H150V300H100V400ZM250 250V0H300V400H250V300H200V250ZM150 250V150H200V250Z" fill="#fafafa" transform="translate(615.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H300V50H100V200H250V250H100V350H300V400Z" fill="#fafafa" transform="translate(665.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H100V250H150V300H100V400ZM250 150V0H300V400H250V200H200V150ZM200 200V250H150V200Z" fill="#fafafa" transform="translate(715.1,106.1) scale(0.0509,-0.0509)"/>
 </g>
 <g opacity="0">
 <animate attributeName="opacity" calcMode="discrete" values="0;0;0;1;0" keyTimes="0.00;0.20;0.40;0.60;0.80" dur="25s" repeatCount="indefinite" begin="2s"/>
-<text x="274" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">B</text>
-<text x="324" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">I</text>
-<text x="374" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">E</text>
-<text x="424" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">N</text>
-<text x="474" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">V</text>
-<text x="524" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">E</text>
-<text x="574" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">N</text>
-<text x="624" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">I</text>
-<text x="674" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">D</text>
-<text x="724" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">O</text>
+<path d="M50 400V0H250V50H100V200H250V250H100V350H250V400ZM250 200V50H300V200ZM250 350V250H300V350Z" fill="#fafafa" transform="translate(265.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M150 50H50V0H300V50H200V350H300V400H50V350H150Z" fill="#fafafa" transform="translate(315.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H300V50H100V200H250V250H100V350H300V400Z" fill="#fafafa" transform="translate(365.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H100V250H150V300H100V400ZM250 150V0H300V400H250V200H200V150ZM200 200V250H150V200Z" fill="#fafafa" transform="translate(415.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M150 50V150H100V50ZM150 50V0H200V50ZM50 400V150H100V400ZM250 400V150H300V400ZM200 150V50H250V150Z" fill="#fafafa" transform="translate(465.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H300V50H100V200H250V250H100V350H300V400Z" fill="#fafafa" transform="translate(515.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H100V250H150V300H100V400ZM250 150V0H300V400H250V200H200V150ZM200 200V250H150V200Z" fill="#fafafa" transform="translate(565.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M150 50H50V0H300V50H200V350H300V400H50V350H150Z" fill="#fafafa" transform="translate(615.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H250V50H100V350H250V400ZM250 350V50H300V350Z" fill="#fafafa" transform="translate(665.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 350V50H100V350ZM100 50V0H250V50ZM250 350V50H300V350ZM100 400V350H250V400Z" fill="#fafafa" transform="translate(715.1,106.1) scale(0.0509,-0.0509)"/>
 </g>
 <g opacity="0">
 <animate attributeName="opacity" calcMode="discrete" values="0;0;0;0;1" keyTimes="0.00;0.20;0.40;0.60;0.80" dur="25s" repeatCount="indefinite" begin="2s"/>
-<text x="274" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">B</text>
-<text x="324" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">E</text>
-<text x="374" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">N</text>
-<text x="424" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">V</text>
-<text x="474" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">E</text>
-<text x="524" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">N</text>
-<text x="574" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">U</text>
-<text x="624" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">T</text>
-<text x="674" y="93" text-anchor="middle" fill="#fafafa" font-family="'Courier New',monospace" font-size="28">O</text>
+<path d="M50 400V0H250V50H100V200H250V250H100V350H250V400ZM250 200V50H300V200ZM250 350V250H300V350Z" fill="#fafafa" transform="translate(265.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H300V50H100V200H250V250H100V350H300V400Z" fill="#fafafa" transform="translate(315.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H100V250H150V300H100V400ZM250 150V0H300V400H250V200H200V150ZM200 200V250H150V200Z" fill="#fafafa" transform="translate(365.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M150 50V150H100V50ZM150 50V0H200V50ZM50 400V150H100V400ZM250 400V150H300V400ZM200 150V50H250V150Z" fill="#fafafa" transform="translate(415.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H300V50H100V200H250V250H100V350H300V400Z" fill="#fafafa" transform="translate(465.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V0H100V250H150V300H100V400ZM250 150V0H300V400H250V200H200V150ZM200 200V250H150V200Z" fill="#fafafa" transform="translate(515.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V50H100V400ZM100 50V0H250V50ZM250 400V50H300V400Z" fill="#fafafa" transform="translate(565.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 400V350H150V0H200V350H300V400Z" fill="#fafafa" transform="translate(615.1,106.1) scale(0.0509,-0.0509)"/>
+<path d="M50 350V50H100V350ZM100 50V0H250V50ZM250 350V50H300V350ZM100 400V350H250V400Z" fill="#fafafa" transform="translate(665.1,106.1) scale(0.0509,-0.0509)"/>
 </g>
 <g stroke="#1e1e22" stroke-width="1" opacity="0.4">
 <line x1="0" y1="27" x2="998" y2="27"/>
