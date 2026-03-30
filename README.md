@@ -9,6 +9,7 @@
   <a href="https://www.mariosumali.com"><code>mariosumali.com</code></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="mailto:msumali@stanford.edu"><code>msumali@stanford.edu</code></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mariosumali/"><code>LinkedIn</code></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://github.com/mariosumali"><code>GitHub</code></a>
 </div>
 
+<!--
 ---
 
 ### `RECENT`
@@ -65,6 +66,7 @@
 </table>
 
 ---
+-->
 
 <div align="center">
   <a href="https://mariosumali.github.io/mariosumali/coin/"><code>Feeling Lucky?</code></a>
