@@ -6,6 +6,7 @@
 </div>
 -->
 
+<!--
 <div align="center">
 
 ```
@@ -20,6 +21,10 @@
 
 <div align="center">
   <p><code>CS @ Stanford, building things.</code></p>
+</div>
+-->
+
+<div align="center">
   <a href="https://www.mariosumali.com"><code>mariosumali.com</code></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="mailto:msumali@stanford.edu"><code>msumali@stanford.edu</code></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mariosumali/"><code>LinkedIn</code></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://github.com/mariosumali"><code>GitHub</code></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://www.instagram.com/luigisumali/"><code>Instagram</code></a>
 </div>
 
@@ -86,7 +91,7 @@
 
 <div align="center">
   <a href="https://www.mariosumali.com">
-    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO_%E2%86%92-60a5fa?style=for-the-badge" height="50" alt="Visit My Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-3f3f46?style=for-the-badge" height="50" alt="Portfolio" />
   </a>
 </div>
 
