@@ -7,15 +7,13 @@
 -->
 
 <div align="center">
-
-```
-  __  __            _         ____                        _ _ 
+  <a href="https://www.mariosumali.com">
+    <pre>  __  __            _         ____                        _ _ 
  |  \/  | __ _ _ __(_) ___   / ___| _   _ _ __ ___   __ _| (_)
  | |\/| |/ _` | '__| |/ _ \  \___ \| | | | '_ ` _ \ / _` | | |
  | |  | | (_| | |  | | (_) |  ___) | |_| | | | | | | (_| | | |
- |_|  |_|\__,_|_|  |_|\___/  |____/ \__,_|_| |_| |_|\__,_|_|_|
-```
-
+ |_|  |_|\__,_|_|  |_|\___/  |____/ \__,_|_| |_| |_|\__,_|_|_|</pre>
+  </a>
 </div>
 
 <div align="center">
@@ -82,3 +80,14 @@
 ---
 -->
 
+<br />
+
+<div align="center">
+  <a href="https://limit.mariosumali.com/">
+    <img src="https://img.shields.io/badge/%E2%96%B6_TEST_YOUR_LIMITS-18181b?style=for-the-badge" alt="Test Your Limits" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mariosumali.github.io/mariosumali/coin/">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%B0_FEELING_LUCKY%3F-18181b?style=for-the-badge" alt="Feeling Lucky?" />
+  </a>
+</div>
