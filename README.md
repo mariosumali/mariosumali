@@ -82,14 +82,3 @@
 ---
 -->
 
-<br />
-
-<div align="center">
-  <a href="https://limit.mariosumali.com/">
-    <img src="https://img.shields.io/badge/%E2%96%B6_TEST_YOUR_LIMITS-12_precision_tests-60a5fa?style=for-the-badge&labelColor=18181b" alt="Test Your Limits" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mariosumali.github.io/mariosumali/coin/">
-    <img src="https://img.shields.io/badge/%F0%9F%8E%B0_FEELING_LUCKY%3F-flip_a_coin-a1a1aa?style=for-the-badge&labelColor=18181b" alt="Feeling Lucky?" />
-  </a>
-</div>
