@@ -86,7 +86,7 @@
 
 <div align="center">
   <a href="https://www.mariosumali.com">
-    <img src="portfolio-btn.svg" alt="Visit My Portfolio" />
+    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO_%E2%86%92-60a5fa?style=for-the-badge" height="50" alt="Visit My Portfolio" />
   </a>
 </div>
 
