@@ -85,6 +85,14 @@
 <br />
 
 <div align="center">
+  <a href="https://www.mariosumali.com">
+    <img src="portfolio-btn.svg" alt="Visit My Portfolio" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
   <a href="https://limit.mariosumali.com/">
     <img src="https://img.shields.io/badge/%E2%96%B6_TEST_YOUR_LIMITS-18181b?style=for-the-badge" alt="Test Your Limits" />
   </a>
