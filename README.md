@@ -7,18 +7,20 @@
 -->
 
 <div align="center">
-  <a href="https://www.mariosumali.com">
-    <pre>  __  __            _         ____                        _ _ 
+
+```
+  __  __            _         ____                        _ _ 
  |  \/  | __ _ _ __(_) ___   / ___| _   _ _ __ ___   __ _| (_)
  | |\/| |/ _` | '__| |/ _ \  \___ \| | | | '_ ` _ \ / _` | | |
  | |  | | (_| | |  | | (_) |  ___) | |_| | | | | | | (_| | | |
- |_|  |_|\__,_|_|  |_|\___/  |____/ \__,_|_| |_| |_|\__,_|_|_|</pre>
-  </a>
+ |_|  |_|\__,_|_|  |_|\___/  |____/ \__,_|_| |_| |_|\__,_|_|_|
+```
+
 </div>
 
 <div align="center">
   <p><code>CS @ Stanford, building things.</code></p>
-  <a href="https://www.mariosumali.com"><code>mariosumali.com</code></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="mailto:msumali@stanford.edu"><code>msumali@stanford.edu</code></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mariosumali/"><code>LinkedIn</code></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://github.com/mariosumali"><code>GitHub</code></a>
+  <a href="https://www.mariosumali.com"><code>mariosumali.com</code></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="mailto:msumali@stanford.edu"><code>msumali@stanford.edu</code></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mariosumali/"><code>LinkedIn</code></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://github.com/mariosumali"><code>GitHub</code></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://www.instagram.com/luigisumali/"><code>Instagram</code></a>
 </div>
 
 <!--
